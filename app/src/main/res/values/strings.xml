@@ -1,0 +1,78 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="listen_icon" translatable="false">Listen Icon</string>
+    <string name="icon_direction" translatable="false">Directions Icon</string>
+    <string name="icon_call" translatable="false">Call Icon</string>
+    <string name="icon_save" translatable="false">Save Icon</string>
+    <string name="icon_share" translatable="false">Share Icon</string>
+    <string name="icon_voice_search" translatable="false">Voice Search Icon</string>
+    <string name="icon_menu" translatable="false">Menu Icon</string>
+    <string name="icon_cancel" translatable="false">Cancel Icon</string>
+    <string name="icon_layer_fab" translatable="false">Layer Icon</string>
+    <string name="icon_north_fab" translatable="false">North Icon</string>
+    <string name="icon_direction_fab" translatable="false">Direction Icon</string>
+    <string name="icon_current_fab" translatable="false">Current Location Icon</string>
+    <string name="icon_search" translatable="false">Search Icon</string>
+    <string name="icon_no_data" translatable="false">No Data Icon</string>
+    <string name="icon_default_map_type" translatable="false">Default Map Type Icon</string>
+    <string name="icon_satellite_map_type" translatable="false">Satellite Map Type Icon</string>
+    <string name="icon_terrain_map_type" translatable="false">Terrain Map Type Icon</string>
+    <string name="app_logo" translatable="false">App Logo</string>
+    <string name="sample_atm" translatable="false">City Union Bank ATM</string>
+    <string name="sample_address" translatable="false">National Highway 58 · 0.1 mi</string>
+    <string name="sample_timings" translatable="false">Open · Closes 23:30</string>
+    <string name="sample_name" translatable="false">Aryan</string>
+    <string name="sample_mail" translatable="false">ashish@gmail.com</string>
+    <string name="sample_number" translatable="false">+91 123456789</string>
+    <string name="sample_bank" translatable="false">Axis Bank</string>
+    <string name="sample_suggestion" translatable="false">Your suggestion goes here…</string>
+    <string name="icon_select" translatable="false">icon_select</string>
+
+    <string name="app_name">Jan Dhan Nir Deshak</string>
+    <string name="maps_api_key" translatable="false" tools:ignore="MissingTranslation">AIzaSyBM5X5rSKz9MnZidTqlucQUtCVEGnasg0w</string>
+    <string name="atm">ATM</string>
+    <string name="branch">Branch</string>
+    <string name="post_office">Post Office</string>
+    <string name="csc">CSC</string>
+    <string name="bank_mitra">Bank Mitra</string>
+    <string name="jan_dhan_darshak">Jan Dhan NirDeshak</string>
+    <string name="search_here">Search Here</string>
+    <string name="distance">Distance</string>
+    <string name="relevance">Relevance</string>
+    <string name="open_now">Open Now</string>
+    <string name="top_rated">Top Rated</string>
+    <string name="map_type">Map type</string>
+    <string name="default_map_type">Default</string>
+    <string name="satellite_map_type">Satellite</string>
+    <string name="terrain_map_type">Terrain</string>
+    <string name="favourite_locations">Favourite Locations</string>
+    <string name="missing_bank">Missing Bank</string>
+    <string name="feedback">Feedback</string>
+    <string name="faq">FAQs</string>
+    <string name="about_us">About Us</string>
+    <string name="disclaimer">Disclaimer</string>
+    <string name="version">Version: 1.0.0</string>
+    <string name="about_us_text">The Jan Dhan NirDeshak Mobile application provides an interface for citizen to view the banking infrastructure in India consisting of Bank Branches, ATMs, Bank Mitra locations. The data is collated by Department of Financial services from schedule commercial Banks both public and private sector.</string>
+    <string name="disclaimer_text">The information contained in the mobile application is provided and maintained by various scheduled commercial banks. No guarantee is given as to the accuracy or currency of any of the data. Therefore, in no event shall Department of Financial Services or its constituents be liable for any special, indirect or consequential damages or any damages whatsoever resulting from loss of use,data, or profits, whether in an action of contact, negligence,or other action, arising out of or in connection with the use of the information herein provided. The website is designed to serve as a secondary representation of Banking infrastructure, and is complied from the scheduled commercial Banks which are the primary sources for this public information. Users of this website are hereby notified that these primary sources should be consulted for verification of the information presented here. And Department of Financial Services or its constituents and the software developer,NIC, assume no legal responsibility for the information on this website.</string>
+    <string name="closed">Closed</string>
+    <string name="closes">Closes</string>
+    <string name="name">NAME</string>
+    <string name="bank_name">Bank Name</string>
+    <string name="email_id">Email ID</string>
+    <string name="Suggestion">Suggestion</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="send_suggestion">Send Suggestion</string>
+    <string name="send_feedback">Send Feedback</string>
+    <string name="change_language">Change Language</string>
+    <string name="change">Change</string>
+    <string name="language">language</string>
+    <string name="save">Save</string>
+    <string name="cash_available">Cash Available ?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="crowd_strength">Crowd Strength ?</string>
+    <string name="_5">05+</string>
+    <string name="_10">10+</string>
+    <string name="_15">15+</string>
+    <string name="review">Review</string>
+    <string name="no_cash">%1$s out of %2$s peoples says no cash.</string>
+</resources>
